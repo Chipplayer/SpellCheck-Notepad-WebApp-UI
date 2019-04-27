@@ -1,0 +1,23 @@
+/* Style your document with css */
+/* I am Iron Man */
+
+
+#notepad {
+  margin: 1%;
+  position: fixed;
+  padding:1%;
+  left: 20%;
+  border: 1px solid;
+  border-color: black;
+  width: 700px;
+  height: 410px;
+
+}
+
+#notepad a{
+  text-decoration: none;
+}
+
+.btn-outline-danger{
+  margin-left:491px;
+}
